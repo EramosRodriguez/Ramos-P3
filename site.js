@@ -34,6 +34,9 @@ const vue_app = Vue.createApp({
             // This holds your movies.json data.
             movies: [],
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
+            title: 'IDMB + Eleazars Top 8 Movies',
+            owner: 'Eleazar',
+            github:"https://github.com/EramosRodriguez/Ramos-P3.git"
       }
     },
       methods: {
